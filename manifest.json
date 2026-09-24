@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1",
+  "app": "fox",
+  "global": "__sveltekit_1uwax22",
+  "start": "_app/immutable/entry/start.Cv5MQCQY.js",
+  "appEntry": "_app/immutable/entry/app.BudWOfE6.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/entry/start.Cv5MQCQY.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/chunks/ye4n5-gU.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/chunks/Ci_el7NN.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/chunks/C06gxvYb.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/entry/app.BudWOfE6.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/chunks/B_b_fuRm.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/chunks/broIdCcY.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/chunks/DbN5fMzz.js",
+    "https://yissok.github.io/fox-dist/releases/6a1670fb6efd12d28b3cb93dd4f96dd8b0faae05-35980958437-1/_app/immutable/nodes/0.D62WKzoG.js"
+  ],
+  "social": {
+    "title": "Fox",
+    "description": "An interactive website created with Project Factory."
+  }
+}
